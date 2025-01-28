@@ -1,0 +1,1 @@
+This repository demonstrates a potential issue with Ruby's `method_missing` method. While useful for dynamic method handling, it can mask errors or lead to difficult-to-debug issues if not implemented correctly. The `bug.rb` file contains the problematic code, while `bugSolution.rb` offers a safer approach, demonstrating best practices.
